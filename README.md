@@ -15,10 +15,6 @@ Upload PDF documents, ask natural-language questions grounded in their content, 
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
-- [Contributors](#-contributors)
-- [Join the Community](#-join-the-community)
-- [License](#license)
-
 ---
 
 ## Features
@@ -419,25 +415,3 @@ $env:HF_HOME = "D:\hf-cache"
 - Antivirus may slow first model extraction; add cache folder exclusions if appropriate.
 
 ---
-
-## 🤝 Contributors
-
-Contributions of all kinds are welcome! Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-
-[![](https://contrib.rocks/image?repo=FireFistisDead/pdf-qa-bot)](https://github.com/FireFistisDead/pdf-qa-bot/graphs/contributors)
-
----
-
-## 🚀 Join the Community
-
-Connect with other contributors, ask questions, and share feedback on Discord:
-
-**[Join the pdf-qa-bot Discord →](https://discord.gg/4wFrQEwft)**
-
-We’d love to hear from you — whether you’re setting up the project for the first time or shipping your next pull request.
-
----
-
-## License
-
-See repository license files and package metadata where applicable. Third-party models are subject to their respective Hugging Face model cards and licenses.
